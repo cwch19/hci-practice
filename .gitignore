@@ -1,0 +1,13 @@
+# 檔案名稱 .gitignore
+
+# 忽略所有附檔名是 .pdf 的檔案
+*.pdf
+
+# 忽略所有附檔名是 .py 的檔案
+*.py
+
+# 忽略所有 .ipynb_checkpoints 目錄下的檔案
+/.ipynb_checkpoints
+
+# 忽略所有 data 目錄下的檔案
+/data
